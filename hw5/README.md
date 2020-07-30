@@ -1,3 +1,3 @@
 **HW5**
 
-Trading server
+Trading server implemented in C
